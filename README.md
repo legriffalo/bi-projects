@@ -10,7 +10,7 @@ I like to maintain my data and BI skills so this is where I come to mess with da
 - 🛠️ Feature 3: Python and R integrated projects coming soon...
 
 ### 🎯 Why Use this project?
-- If you want some tried and tested data sets o practice BI
+- If you want some tried and tested data sets to practice BI
 - If you want some inspiration in you powerBI praxis
 - If you want to see some nice dashboards
 
@@ -21,11 +21,6 @@ I like to maintain my data and BI skills so this is where I come to mess with da
 </a>
 
 </p>
-
-
-
-### 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=legriffalo&theme=github)
 
 ---
 ⭐️ From [Nick G](https://github.com/legriffalo)
